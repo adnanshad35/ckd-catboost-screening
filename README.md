@@ -1,16 +1,3 @@
-# CKD CatBoost Screening Model
-
-This repository contains the code for our conference paper:
-"Engineered CatBoost Model for Imbalanced CKD Screening".
-
-Files:
-- Google Colab notebook
-- Dataset
-- Model pipeline
-
-Author: Adnan, Mahfuza
-
-
 # CKD Screening Using an Engineered CatBoost Model
 
 This repository contains the implementation of **“Engineered CatBoost Model for Imbalanced CKD Screening.”** The project evaluates a CatBoost-based machine-learning pipeline for screening chronic kidney disease (CKD) from clinical and lifestyle variables.
