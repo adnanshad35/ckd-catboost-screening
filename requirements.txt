@@ -1,0 +1,9 @@
+# Versions that reproduce the results reported in README.md
+scikit-learn==1.6.1
+xgboost==2.1.4
+catboost==1.2.10
+shap==0.54.1
+pandas
+numpy
+matplotlib
+seaborn
